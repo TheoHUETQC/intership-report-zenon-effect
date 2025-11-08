@@ -6,11 +6,6 @@ L'étude explore les fondements de la mesure quantique et met en évidence les a
 
 ## 📝 Rapports
 
-### Version Anglaise
-- **Titre** : Study of Quantum Measurement and Applications to the Quantum Zeno Effect  
-- **Fichier** : [Quantum_Zeno_Effect_Report_EN.pdf](link_to_english_report)  
-- **Résumé** : Ce rapport présente le cadre théorique de la mesure quantique en mettant l'accent sur les postulats de la mécanique quantique. Il examine l'effet Zénon quantique à travers une approche théorique, une modélisation mathématique et des résultats expérimentaux, en soulignant son rôle potentiel dans la stabilisation des états quantiques en informatique quantique.  
-
 ### Version Française
 - **Titre** : Étude de la Mesure Quantique et Application à l'Effet Zénon  
 - **Fichier** : [rapport-stage_Zenon-effect_HUET-Theo_2024.pdf](rapport-stage_Zenon-effect_HUET-Theo_2024.pdf)  
@@ -32,7 +27,7 @@ L'étude explore les fondements de la mesure quantique et met en évidence les a
 ## 📂 Structure du dépôt
 - `/english/Quantum_Zeno_Effect_Report_EN.pdf` : Rapport complet en anglais.
 - `/french/Rapport_Effet_Zeno_FR.pdf` : Rapport complet en français.
-- `/images/` : Diagrammes et illustrations utilisés dans les rapports.
+- `/french/images/` : Diagrammes et illustrations utilisés dans les rapports.
 
 ## 🤝 Remerciements
 Un grand merci à mon encadrant, **M. Lorenzo Fratino**, pour son accompagnement précieux, ainsi qu'à l'équipe du LPTM pour avoir offert un environnement de recherche stimulant.
