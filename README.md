@@ -1,44 +1,46 @@
-# Quantum Measurement and the Quantum Zeno Effect
+# 🕰️ Mesure Quantique et Effet Zénon Quantique
 
-This repository contains the report of my Bachelor's degree internship on the **Quantum Zeno Effect**. The internship was conducted at the **Laboratory of Theoretical Physics and Modeling (LPTM)** at CY Cergy Paris University, under the supervision of **Mr. Lorenzo Fratino**. 
+Ce dépôt contient le rapport de mon stage de fin de Licence sur l'**Effet Zénon Quantique**. Ce stage a été réalisé au **Laboratoire de Physique Théorique et Modélisation (LPTM)** de l'Université CY Cergy Paris, sous la supervision de **M. Lorenzo Fratino**.  
 
-The study explores the foundations of quantum measurement and demonstrates the theoretical and practical aspects of the Quantum Zeno Effect, a phenomenon with significant applications in quantum computing.
+L'étude explore les fondements de la mesure quantique et met en évidence les aspects théoriques et pratiques de l'effet Zénon, un phénomène ayant des applications majeures en informatique quantique.
 
-## 📝 Reports
+Dans ce rapport, j'ai voulu redéfinir les bases de la mécanique quantique à l'aide d'exemples et d'images que j'ai créés moi-même afin de rendre le tout plus intuitif. La mesure en mécanique quantique me fascine, c'était donc le moment pour moi de me faire plaisir sur ce sujet.  
+J'ai adoré mettre sur papier tous ces concepts qui me fascinent afin de les partager.
 
-### English Version
-- **Title**: Study of Quantum Measurement and Applications to the Quantum Zeno Effect  
-- **File**: [Quantum_Zeno_Effect_Report_EN.pdf](link_to_english_report)  
-- **Abstract**: This report discusses the theoretical framework of quantum measurement, focusing on the postulates of quantum mechanics. It examines the Quantum Zeno Effect through theoretical reasoning, mathematical modeling, and experimental insights, emphasizing its potential for stabilizing quantum states in quantum computing.  
+Ce répertoire est en français, tout comme mon rapport. J'avais prévu de traduire l'intégralité en anglais, mais j'ai finalement décidé de le laisser tel quel, car il s'agit de mes premiers pas dans le monde de la recherche.
 
-### French Version
-- **Titre**: Étude de la Mesure Quantique et Application à l'Effet Zénon  
-- **Fichier**: [rapport-stage_Zenon-effect_HUET-Theo_2024.pdf](rapport-stage_Zenon-effect_HUET-Theo_2024.pdf)  
-- **Résumé**: Ce rapport traite des bases théoriques de la mesure quantique, en se concentrant sur les postulats de la mécanique quantique. Il examine l'Effet Zénon à travers une analyse théorique, une modélisation mathématique, et des résultats expérimentaux, soulignant son utilité pour la stabilisation des états quantiques en informatique quantique.
+## Rapports
 
-## 📚 Topics Covered
-- Postulates of quantum mechanics and their implications for measurement.
-- Theoretical demonstration of the Quantum Zeno Effect.
-- Cook's proposal and the role of the density matrix.
-- Bloch sphere representation of quantum states.
-- Insights from experimental observations of the Quantum Zeno Effect.
+- **Titre** : Étude de la Mesure Quantique, Application à l'Effet Zénon  
+- **Fichier** : [rapport-stage_Zenon-effect_HUET-Theo_2024.pdf](rapport-stage_Zenon-effect_HUET-Theo_2024.pdf)  
+- **Résumé** : Ce rapport traite des bases théoriques de la mesure quantique, en se concentrant sur les postulats de la mécanique quantique. Il examine l'effet Zénon à travers une analyse théorique, une modélisation mathématique et des résultats expérimentaux, en mettant en avant son utilité pour la stabilisation des états quantiques en informatique quantique.
 
-## 🚀 About the Internship
-- **Duration**: April 29, 2024 – May 29, 2024  
-- **Institution**: CY Cergy Paris University  
-- **Laboratory**: Laboratory of Theoretical Physics and Modeling (LPTM)  
-- **Supervisor**: [Lorenzo Fratino](https://www.cyu.fr/lorenzo-fratino)  
+## Sujets abordés
+- Postulats de la mécanique quantique et leurs implications sur la mesure.
+- Démonstration théorique de l'effet Zénon quantique.
+  - Sur un Hamiltonien independant du temps
+  - Sur l'Hamiltonien d'un ion piégé qui subit une oscilation de Rabi
+- Proposition de Cook et rôle de la matrice densité.
+- Représentation des états quantiques sur la sphère de Bloch.
+- Observations expérimentales de l'effet Zénon quantique.
+- Comparaison entre la théorie et l'experience
 
-## 📂 Repository Structure
-- `/english/Quantum_Zeno_Effect_Report_EN.pdf`: Full report in English.
-- `/french/Rapport_Effet_Zeno_FR.pdf`: Full report in French.
-- `/images/`: Diagrams and illustrations used in the reports.
+## À propos du stage
+- **Durée** : 29 avril 2024 – 29 mai 2024  
+- **Institution** : Université CY Cergy Paris  
+- **Laboratoire** : Laboratoire de Physique Théorique et Modélisation (LPTM) et CNRS  
+- **Encadrant** : [Lorenzo Fratino](https://www.cyu.fr/lorenzo-fratino)  
 
-## 🤝 Acknowledgments
-Special thanks to my supervisor, **Mr. Lorenzo Fratino**, for his invaluable guidance, and to the team at LPTM for providing a stimulating research environment.
+## Structure du dépôt
+- `rapport-stage_Zenon-effect_HUET-Theo_2024.pdf` : Rapport complet en français.
+- `/tex/` : dossier contenant tout ce qu'il faut pour generer mon rapport en Latex.
+  - `/tex/rapport-Zenon-effect-French.tex` : Rapport en Latex (il sagit de mon premier document .tex !)
+  - `/tex/images/` : Diagrammes et illustrations utilisés dans les rapports.
 
-## 📬 Contact
-If you have any questions or suggestions, feel free to reach out:
-- **Name**: Théo Huet  
-- **Email**: theo6huet@gmail.com  
-- **LinkedIn**: [theo-huet](https://www.linkedin.com/in/theo-huet/)
+## Remerciements
+Un grand merci à mon encadrant, **M. Lorenzo Fratino**, pour son accompagnement précieux, ainsi qu'à l'équipe du LPTM pour avoir offert un environnement de recherche stimulant.
+
+## Contact
+Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter :
+- **Email** : theo6huet@gmail.com  
+- **LinkedIn** : [theo-huet](https://www.linkedin.com/in/theo-huet/)
