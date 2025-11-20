@@ -5,7 +5,10 @@ Ce dépôt contient le rapport de mon stage de fin de Licence sur l'**Effet Zén
 L'étude explore les fondements de la mesure quantique et met en évidence les aspects théoriques et pratiques de l'effet Zénon, un phénomène ayant des applications majeures en informatique quantique.
 
 Dans ce rapport, j'ai voulu redéfinir les bases de la mécanique quantique à l'aide d'exemples et d'images que j'ai créés moi-même afin de rendre le tout plus intuitif. La mesure en mécanique quantique me fascine, c'était donc le moment pour moi de me faire plaisir sur ce sujet.  
-J'ai adoré mettre sur papier tous ces concepts qui me fascinent afin de les partager.
+
+![chat de Schrodinger](tex/images/postulat_1_chat.png)
+
+J'ai adoré mettre sur papier, comme ce fameux chat de Schrodinger, tous ces concepts qui me fascinent afin de les partager.
 
 Ce répertoire est en français, tout comme mon rapport. J'avais prévu de traduire l'intégralité en anglais, mais j'ai finalement décidé de le laisser tel quel, car il s'agit de mes premiers pas dans le monde de la recherche.
 
